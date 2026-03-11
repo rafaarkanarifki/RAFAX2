@@ -99,7 +99,7 @@
     --gradient-primary: linear-gradient(
       210deg,
       hsl(0, 0%, 71%),
-      hsl(0, 0%, 100%)
+      hsla(0, 0%, 100%, 0.914)
     );
     --gradient-hero: linear-gradient(
       180deg,
