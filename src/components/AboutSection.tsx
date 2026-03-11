@@ -54,7 +54,7 @@ export default function AboutSection() {
             className="space-y-6"
           >
             <h3 className="font-display text-2xl md:text-3xl font-bold">
-              Passionate Developer &amp; Creator
+              student cretor in progress
             </h3>
             <p className="text-muted-foreground leading-relaxed">
               Saya adalah seorang Fullstack Web Developer dengan passion yang kuat dalam menciptakan 
