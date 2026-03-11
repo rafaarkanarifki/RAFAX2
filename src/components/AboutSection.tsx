@@ -4,8 +4,8 @@ import { Code2, Video, Coffee, Rocket } from 'lucide-react';
 export default function AboutSection() {
   const stats = [
     { icon: Code2, value: '1', label: 'Projects Selesai' },
-    { icon: Video, value: '0', label: 'Video Konten' },
-    { icon: Coffee, value: '100', label: 'Cangkir Kopi' },
+    { icon: Video, value: '3', label: 'juara lomba' },
+    { icon: Coffee, value: '1000+', label: 'kertas buku' },
     { icon: Rocket, value: '1+', label: 'Tahun Pengalaman' },
   ];
 
@@ -54,18 +54,16 @@ export default function AboutSection() {
             className="space-y-6"
           >
             <h3 className="font-display text-2xl md:text-3xl font-bold">
-              student cretor in progress
+              Deskripsi
             </h3>
             <p className="text-muted-foreground leading-relaxed">
-              Saya adalah seorang Fullstack Web Developer dengan passion yang kuat dalam menciptakan 
-              solusi digital yang inovatif. Dengan pengalaman lebih dari 5 tahun, saya telah 
-              membantu berbagai klien dan perusahaan dalam mewujudkan ide-ide mereka menjadi 
-              aplikasi web yang powerful dan user-friendly.
+              perkenalkan nama saya Rafa arkana rifki,saya lahir di b.aceh tangal 21 juli 2010,
+              sekarang saya bersekolah di man 1 banda aceh pada kelas 10,sekarang saya tinggal 
+              di banda aceh spesifik ny di kampung pango raya.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Selain coding, saya juga aktif sebagai Content Creator, berbagi pengetahuan 
-              tentang pemrograman dan teknologi melalui berbagai platform. Saya percaya bahwa 
-              berbagi ilmu adalah cara terbaik untuk terus belajar dan berkembang.
+              saya adalah seorang pelajar yg memiliki cita-cita besar utk menjadi orang sukses 
+              di masa depan,saya ingin mejadi pengusaha sukses yg dapat membantu banyak orang.
             </p>
             <div className="grid grid-cols-2 gap-4 pt-4">
               {stats.map((stat, index) => (
