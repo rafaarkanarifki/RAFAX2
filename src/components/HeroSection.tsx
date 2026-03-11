@@ -41,8 +41,8 @@ export default function HeroSection() {
             className="flex-shrink-0"
           >
             <img
-              src="/foto akun1.jpg" // ganti dengan foto kamu
-              alt="Naufal"
+              src="/foto.jpg" // ganti dengan foto kamu
+              alt="rafa"
               className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full border-4 border-primary shadow-glow"
             />
           </motion.div>
