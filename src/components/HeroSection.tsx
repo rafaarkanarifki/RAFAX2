@@ -58,7 +58,7 @@ export default function HeroSection() {
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
-              className="text-lg md:text-xl text-muted-foreground mb-8"
+              className="text-lg md:text-xl text-biru-foreground leading-relaxed mb-8"
             >
              saya siswa man 1 banda aceh,kelas pre internasional
              saya sedang belajar tentang pemograman coding yg berguna di era ini
